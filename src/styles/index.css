@@ -1,0 +1,17 @@
+:root {
+  --primary: #0c00b7;
+  --dark: #ffffff;
+  --light: #000000;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: var(--dark);
+  color: var(--primary);
+}
